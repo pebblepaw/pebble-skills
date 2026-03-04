@@ -1,0 +1,33 @@
+{
+  "aliasMap": {
+    "home": ["home"],
+    "work": ["work", "office"]
+  },
+  "commands": {
+    "home": {
+      "stops": [
+        {
+          "type": "lta",
+          "name": "Opp Blk 123",
+          "busStopCode": "12345",
+          "services": "all",
+          "includeWeather": true,
+          "weatherAreas": [
+            {"label": "East", "neaArea": "Pasir Ris"},
+            {"label": "Central", "neaArea": "Bishan"}
+          ]
+        }
+      ]
+    },
+    "nus": {
+      "stops": [
+        {
+          "type": "nus",
+          "name": "COM3",
+          "stopCode": "COM3",
+          "services": ["D2"]
+        }
+      ]
+    }
+  }
+}

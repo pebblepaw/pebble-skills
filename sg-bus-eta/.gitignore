@@ -1,0 +1,4 @@
+# secrets and local config
+secrets/
+scripts/config.json
+__pycache__/
