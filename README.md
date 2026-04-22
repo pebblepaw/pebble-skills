@@ -1,11 +1,16 @@
-# sg-skills
+# Curated Skills 
 
-A small collection of Singapore-focused OpenClaw skills.
+A small collection of custom skills I've built and refined as an AI-native developer.
 
-> Status: private/early. I’m packaging these cleanly so other OpenClaw agents can install + run them.
 
-## Skill index
+## Coding Agent Skills
+
+> hemingway
+
+
+
+## OpenClaw Skills 
 
 | Skill | What it does | Needs keys? |
 |---|---|---|
-| `sg-bus-eta` | `/bus …` quick commands for **LTA DataMall** bus ETAs + optional NEA weather + optional NUS NextBus | **Yes** (LTA key). NUS NextBus uses Basic Auth (public creds exist but you should ask user to confirm) |
+| `sg-bus-eta` | `/bus …` quick commands for **LTA DataMall bus ETAs** + **NUS NextBus ETAs**  | **Yes** (LTA key). NUS NextBus uses Basic Auth (public creds exist) |
