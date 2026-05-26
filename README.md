@@ -8,7 +8,8 @@ Useful personal skills I've built and refined as an AI-native developer.
 
 | Skill | What it does | Origin story |
 |---|---|---|
-| [`the-hemingway-rule`](./the-hemingway-rule/SKILL.md) | Make Codex write like Claude Opus 4.6 |Got fed up with how Codex has a _penchance for obfuscative language_, so I asked Claude to audit Codex's implementation plans & documentation over the course of a month, distilling the clarity & eloquence of Claude |
+| [`the-hemingway-rule`](./the-hemingway-rule/SKILL.md) | Make Codex write like Claude Opus 4.6 |Got fed up with how Codex has a _penchant for obfuscative language_, so I asked Claude to audit Codex's implementation plans & documentation over the course of a month, distilling the clarity & eloquence of Claude |
+| [`project-planning-documentation`](./project-planning-documentation/SKILL.md) | BRD-first project planning workflow with phased docs, progress tracking, and handoff discipline | Built to keep long-running agent projects structured, indexable, and easy to resume |
 
 ---
 
